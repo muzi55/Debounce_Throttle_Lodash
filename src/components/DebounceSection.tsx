@@ -36,4 +36,4 @@ const DebounceSection = (): JSX.Element => {
   );
 };
 
-export default DebounceSection;
+export default React.memo(DebounceSection);

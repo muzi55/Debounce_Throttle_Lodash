@@ -32,4 +32,4 @@ const ThrottleSection = (): JSX.Element => {
   );
 };
 
-export default ThrottleSection;
+export default React.memo(ThrottleSection);

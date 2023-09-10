@@ -1,6 +1,8 @@
 import React from "react";
 import DebounceSection from "./components/DebounceSection";
 import ThrottleSection from "./components/ThrottleSection";
+import ThrottleInput from "./components/ThrottleInput";
+import DebounceInput from "./components/DebounceInput";
 
 function App() {
   return (
@@ -9,6 +11,11 @@ function App() {
 
       <DebounceSection />
       <ThrottleSection />
+
+      <hr />
+
+      <DebounceInput />
+      <ThrottleInput />
     </>
   );
 }

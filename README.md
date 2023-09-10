@@ -1,6 +1,6 @@
 # lodash 로 만드는 debounce, throttle 예제입니다.
 
-[https://vercel.com/muzi55/debounce-throttle-lodash](https://debounce-throttle-lodash.vercel.app/)
+https://debounce-throttle-lodash.vercel.app/
 
 
 ![미리보기](https://github.com/muzi55/Debounce_Throttle_Lodash/assets/132406946/f0be3035-bc8c-4e7b-adbd-9eae9727b6c5)
